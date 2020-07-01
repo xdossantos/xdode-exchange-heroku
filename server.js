@@ -15,6 +15,7 @@ const db = require('./config/keys').mongoURI;
 
 mongoose
   .connect(db)
+  // Here we output text to the conole in order to know that the web app has connected to MongoDB
   .then(() => console.log("MongoDB is connected "))
   .catch(err => console.log(err));
 
