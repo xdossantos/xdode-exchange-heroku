@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://xdode:xdode1234@cluster0-grraz.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "secret", 
-  "GoogleAuthID": "240141948346-mtl9kgm1t834ei3q7hv41gvf9tb8mg5c.apps.googleusercontent.com",
-  "GoogleAuthSecret": "E-vtqwLvEgpkFjoFS4AAnArB"
-}
