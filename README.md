@@ -1,6 +1,8 @@
 # xdode.exchange
 
-The [xdode.exchange](https://xdode-exchange.herokuapp.com/) Marketplace is an online business directory where developers can create profiles and and engage with communities of similar interest. 
+The [xdode.exchange](https://xdode-exchange.herokuapp.com/)  is an online recruitment platform where technology talent can create profiles in order to become more visible to recruiters. 
+
+The app features a chat functionality that allows developers to create topics and create conversation threads around those topics.
 
 ## Functions of [xdode.exchange](https://xdode-exchange.herokuapp.com/)
 
